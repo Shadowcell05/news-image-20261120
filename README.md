@@ -20,7 +20,7 @@ a dot-matrix world map and a day-in-figures box.
 - **The day in UTC:** from Kyiv's morning count of 380 drones and 79 missiles
   downed, through the EU–UK summit in Brussels, to the Wall Street close.
 - **Front page grid, by continent:** the Wall Street rout (S&P 500 −3.7%),
-  Anthropic's record IPO closing 17% up, COP31 running into overtime, Ebola
+  GTA VI's $3.79bn day-one sales record, COP31 running into overtime, Ebola
   "out of control" in DR Congo, a fifth tanker hit in Hormuz, Cyclone Akvan's
   Odisha landfall, Haiti's gang raid, Peru's floods — and more.
 - **The day in figures:** 510+ weapons fired at Ukraine, 11,200 Ebola cases,
